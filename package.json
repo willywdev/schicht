@@ -10,15 +10,19 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@primevue/themes": "^4.0.5",
     "nuxt": "^3.13.0",
     "pinia": "^2.2.2",
     "pocketbase": "^0.21.5",
+    "primeicons": "^7.0.0",
+    "tailwindcss-primeui": "^0.3.4",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
     "@nuxtjs/fontaine": "^0.4.3",
     "@nuxtjs/i18n": "^8.5.2",
+    "@nuxtjs/tailwindcss": "^6.12.1",
     "@pinia/nuxt": "^0.5.4",
     "@primevue/nuxt-module": "^4.0.5"
   },
